@@ -1,0 +1,10 @@
+﻿  SocketExampleServer.c
+c:\users\gabon\source\repos\group_49_ex4\example01_server\socketexampleserver.c(233): warning C4101: 'RecvRes': unreferenced local variable
+c:\users\gabon\source\repos\group_49_ex4\example01_server\socketexampleserver.c(440): warning C4047: '!=': 'SOCKET' differs in levels of indirection from 'void *'
+c:\users\gabon\source\repos\group_49_ex4\example01_server\socketexampleserver.c(957): warning C4477: 'sprintf' : format string '%S' requires an argument of type 'unsigned short *', but variadic argument 1 has type 'char *'
+  c:\users\gabon\source\repos\group_49_ex4\example01_server\socketexampleserver.c(957): note: consider using '%hS' in the format string
+  c:\users\gabon\source\repos\group_49_ex4\example01_server\socketexampleserver.c(957): note: consider using '%TS' in the format string
+c:\users\gabon\source\repos\group_49_ex4\example01_server\socketexampleserver.c(686): warning C4101: 'line2send_cpy': unreferenced local variable
+c:\users\gabon\source\repos\group_49_ex4\example01_server\socketexampleserver.c(1183): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\gabon\source\repos\group_49_ex4\example01_server\socketexampleserver.c(1221): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Example01_Server.vcxproj -> C:\Users\gabon\source\repos\group_49_ex4\x64\Debug\group49_ex4_server.exe

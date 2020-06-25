@@ -1,0 +1,6 @@
+﻿  SocketExampleClient.c
+c:\users\gabon\source\repos\group_49_ex4\example01_client\socketexampleclient.c(109): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\gabon\source\repos\group_49_ex4\example01_client\socketexampleclient.c(138): warning C4090: 'function': different 'const' qualifiers
+c:\users\gabon\source\repos\group_49_ex4\example01_client\socketexampleclient.c(145): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\gabon\source\repos\group_49_ex4\example01_client\socketexampleclient.c(370): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Example01_Client.vcxproj -> C:\Users\gabon\source\repos\group_49_ex4\x64\Debug\group49_ex4_client.exe
